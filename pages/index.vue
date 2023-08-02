@@ -2,7 +2,6 @@
   <div>
     <b-container>
       <PersonalInfo />
-      <hr />
       <Summary />
     </b-container>
   </div>
