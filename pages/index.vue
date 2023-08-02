@@ -6,6 +6,8 @@
       <Experiance />
       <Educations />
       <Skills />
+      <Hobby />
+      <Projects />
     </b-container>
   </div>
 </template>
@@ -16,6 +18,8 @@ import PersonalInfo from "../components/PersonalInfo.vue";
 import Educations from "../components/Educations.vue";
 import Skills from "../components/Skills.vue";
 import Experiance from "../components/Experiance.vue";
+import Hobby from "../components/Hobby.vue";
+import Projects from "../components/Projects.vue";
 export default {
   name: "IndexPage",
   components: {
@@ -24,6 +28,8 @@ export default {
     Educations,
     Skills,
     Experiance,
+    Hobby,
+    Projects,
   },
 };
 </script>
