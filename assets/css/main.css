@@ -6,7 +6,7 @@ hr {
   color: #696969;
 }
 .title {
-  color: #4b747a;
+  color: #253a3d;
 }
 .link-text {
   color: #696969;
@@ -16,4 +16,16 @@ hr {
 }
 .card {
   border-color: #bed3d6 !important;
+}
+.importent-title {
+  color: #5e9299;
+}
+
+.icon {
+  height: 15px;
+  width: 15px;
+}
+.dot-icon {
+  height: 8px;
+  width: 8px;
 }

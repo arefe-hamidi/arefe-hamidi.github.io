@@ -7,10 +7,10 @@
         </div>
         <div class="mx-3">
           <div>
-            <h1 class="title">Front-End Developer</h1>
+            <h1 class="importent-title">Front-End Developer</h1>
           </div>
           <div>
-            <h3>Arefeh Hamidi</h3>
+            <h3 class="title">Arefeh Hamidi</h3>
           </div>
           <hr />
           <div>
@@ -77,9 +77,5 @@ export default {
   width: 200px;
   border-radius: 50%;
   border: 4px solid #bed3d6;
-}
-.icon {
-  height: 15px;
-  width: 15px;
 }
 </style>

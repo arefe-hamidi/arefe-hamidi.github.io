@@ -1,8 +1,8 @@
 <template>
   <div>
-    <b-card>
+    <b-card class="my-2">
       <b-card-title outlined>
-        <h6 class="title">Profile Summary</h6>
+        <h4 class="title">Profile Summary</h4>
       </b-card-title>
       <b-card-text>
         I graduated bachelor degree of Computer Engineering from Giulan
