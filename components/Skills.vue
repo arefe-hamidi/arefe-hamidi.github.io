@@ -59,7 +59,6 @@ export default {
             { title: "Vuetify", level: "Proficient" },
             { title: "Bootstrap", level: "Proficient" },
             { title: "Flutter", level: "Intermediate" },
-            { title: "Django", level: "Intermediate" },
           ],
         },
         {
@@ -71,7 +70,7 @@ export default {
           ],
         },
         {
-          Title: "Technical skills and tools",
+          Title: "Other skills",
           value: [
             { title: "SEO", level: "Upper Intermediate" },
             { title: "Git ", level: "Upper Intermediate" },
