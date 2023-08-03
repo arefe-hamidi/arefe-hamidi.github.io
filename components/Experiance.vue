@@ -1,6 +1,6 @@
 <template>
   <div>
-    <b-card class="my-2">
+    <b-card>
       <b-card-title outlined>
         <h4 class="title">Work Experience</h4>
       </b-card-title>
@@ -66,9 +66,11 @@ export default {
           locationType: "Remote",
           location: "Tehran, Tehran Province, Iran",
           achievements: [
-            "master of front-end team management and use vue and nuxt for the projects.",
-            " have experience on working with payment gateway in this project such as wallet charge , payment , subscription, membership plan , ... .",
-            "I have some experience on SEO include working with vue meta tags and site map . Also I worked with SSR rendering in site.",
+            "Mentored 4 team members, enabling them to achieve professional growth and personal goals .",
+            "Have experience on working with <<payment gateway>> in this project such as payment, wallet charge, subscription, membership plan, ... .",
+            "Optimazed 15+ key content pages for <<SEO>> objectives , which improved Online search ranking accuracy by 87% .",
+            "Improved the product quality by code rivews.",
+            "Consulting professionals during development of new websites to ensure accessibility.",
           ],
         },
         {
@@ -80,7 +82,10 @@ export default {
           locationType: "Remote",
           location: "Tehran, Tehran Province, Iran",
           achievements: [
-            "I have worked with OIDC auth for manage user authentication .",
+            "Performing bug fixes, code reviews and managed the codes with <<module pattern>> architecture within the first month .",
+            "Creating modular, responsive templates using modern CSS techniques and JavaScript libraries.",
+            "Collaborating with designers to ensure designs were efficient and technically sound.",
+            "Optimized 18+ applications for maximum speed and scalability .",
           ],
         },
         {
@@ -92,8 +97,9 @@ export default {
           locationType: "On site",
           location: "Gilan Province, Iran",
           achievements: [
-            "I have been working as a freelancer in the front-end team and I used vue and nuxt for projects.",
-            "I have worked with D3js to create tree for manage menu in admin panel.",
+            "Designed front-end code using vue and nuxt to create a responsive web site that works accross desktop, tablets and other devices .",
+            "Worked with D3js to create tree for manage menu in admin panel.",
+            "Validated 100% of user input before submitting to the back-end .",
           ],
         },
       ],

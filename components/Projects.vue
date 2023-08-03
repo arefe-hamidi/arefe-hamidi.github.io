@@ -1,6 +1,6 @@
 <template>
   <div>
-    <b-card class="my-2">
+    <b-card>
       <b-card-title outlined>
         <h4 class="title">Projects</h4>
       </b-card-title>
