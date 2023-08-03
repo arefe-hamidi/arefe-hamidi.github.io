@@ -12,20 +12,7 @@
 <script>
 export default {
   data() {
-    return {
-      skills: [
-        {
-          Title: "Langueges",
-          senior: ["HTML", "css", "JavaScript", "Python", "Java"],
-          intermidate: ["PHP"],
-        },
-        {
-          Title: "FrameWorks",
-          senior: ["HTML", "css", "JavaScript", "Python", "Java"],
-          intermidate: ["PHP"],
-        },
-      ],
-    };
+    return {};
   },
 };
 </script>

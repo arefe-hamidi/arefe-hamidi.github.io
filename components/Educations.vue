@@ -5,7 +5,7 @@
         <h4 class="title">Education</h4>
       </b-card-title>
       <b-card-text>
-        <div v-for="(education, index) in Educations" :key="index" class="my-2">
+        <div v-for="(education, index) in Educations" :key="index" class="mt-2">
           <div class="d-flex flex-row">
             <div>
               <h5 class="importent-title">{{ education.FieldOfStudy }}</h5>
@@ -21,7 +21,12 @@
             </div>
           </div>
           <span class="title">
-            {{ education.Level }} - {{ education.School }}
+            <img
+              src="~/assets/icon/location-dot-solid.svg"
+              class="icon"
+              alt=""
+            />
+            {{ education.School }} - {{ education.Location }}
           </span>
         </div>
       </b-card-text>
@@ -35,16 +40,16 @@ export default {
     return {
       Educations: [
         {
-          FieldOfStudy: "Computer engineering (Software - hardware)",
+          FieldOfStudy: "Bachelor of Computer engineering",
           School: "Guilan university",
-          Level: "Bachelor",
+          Location: "Rasht, Gilan, Iran",
           endDate: "2020",
           startDate: "2015",
         },
         {
-          FieldOfStudy: "mathematics ",
+          FieldOfStudy: "Diploma in mathematics ",
           School: "Mostaghim high school",
-          Level: "Diploma",
+          Location: "Rasht, Gilan, Iran",
           startDate: "2012 ",
           endDate: "2015",
         },

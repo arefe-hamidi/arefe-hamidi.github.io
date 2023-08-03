@@ -5,7 +5,7 @@
         <h4 class="title">Work Experience</h4>
       </b-card-title>
       <b-card-text>
-        <div v-for="(work, index) in works" :key="index" class="my-2">
+        <div v-for="(work, index) in works" :key="index" class="mt-2">
           <div class="d-flex flex-row">
             <div>
               <h5 class="importent-title">{{ work.jobPosition }}</h5>
@@ -40,7 +40,7 @@
             :key="achIndex"
           >
             <img
-              src="~/assets/icon/circle-dot-solid.svg"
+              src="~/assets/icon/circle-solid.svg"
               class="dot-icon mr-1"
               alt=""
             />
