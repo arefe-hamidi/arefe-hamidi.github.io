@@ -9,12 +9,12 @@
           Arefe Hamidi is a senior Front-End developer with 4 years of
           professional experience in the field of front-end development and
           website design .They specialize in using Vue js and Nuxt js for their
-          projects also learning Flutter framework and react js for improve
+          projects also learning Flutter framework and react js for improveing
           skills.
         </p>
         <p class="mb-0 pb-0">
           Capable of continuous learning from senior developers while still
-          nurturing junior developers.Experience in driving projects forward as
+          nurturing junior developers.Experienced in driving projects forward as
           the development team leader, facilitating projects from concept to
           launch. Passionate about learning and development with a desire to
           apply skills on a larger development team . Eager to tackle more
