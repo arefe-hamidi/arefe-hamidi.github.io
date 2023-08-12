@@ -24,7 +24,7 @@
                     alt=""
                   />{{ skill.title }}
                 </div>
-                <div class="ml-auto info-detail">{{ skill.level }}</div>
+                <!-- <div class="ml-auto info-detail">{{ skill.level }}</div> -->
               </div>
             </b-col>
           </b-row>
@@ -52,21 +52,23 @@ export default {
           ],
         },
         {
+          Title: "Libraries",
+          value: [
+            { title: "React", level: "Upper Intermediate" },
+            { title: "Redux", level: "Upper Intermediate" },
+            { title: "Vuex", level: "Proficient" },
+          ],
+        },
+        {
           Title: "Frameworks",
           value: [
+            { title: "Next js", level: "Intermediate" },
+            { title: "React native ", level: "Intermediate" },
             { title: "Vue js", level: "Proficient" },
             { title: "Nuxt js", level: "Proficient" },
             { title: "Vuetify", level: "Proficient" },
             { title: "Bootstrap", level: "Proficient" },
             { title: "Flutter", level: "Intermediate" },
-          ],
-        },
-        {
-          Title: "Libraries",
-          value: [
-            { title: "Vuex", level: "Proficient" },
-            { title: "React", level: "Intermediate" },
-            { title: "React native ", level: "Intermediate" },
           ],
         },
         {

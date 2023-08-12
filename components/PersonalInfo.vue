@@ -48,14 +48,14 @@
             </a>
           </span>
         </div>
-        <div>
+        <!-- <div>
           <img src="~/assets/icon/github.svg" class="icon" alt="" />
           <span class="info-detail">
             <a href="https://github.com/arefe-hamidi" class="link-text"
               >arefe-hamidi</a
             ></span
           >
-        </div>
+        </div> -->
       </div>
     </div>
   </div>

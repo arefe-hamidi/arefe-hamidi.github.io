@@ -6,11 +6,9 @@
       </b-card-title>
       <b-card-text>
         <p class="mb-0 pb-0">
-          Arefe Hamidi is a senior Front-End developer with 4 years of
-          professional experience in the field of front-end development and
-          website design .They specialize in using Vue js and Nuxt js for their
-          projects also learning Flutter framework and react js for improveing
-          skills.
+          Senior Front-End developer with 4 years of professional experience in
+          the field of front-end development and website design .They specialize
+          in using React js, Vue js, Next js, Nuxt js for their projects.
         </p>
         <p class="mb-0 pb-0">
           Capable of continuous learning from senior developers while still
