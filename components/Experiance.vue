@@ -61,7 +61,7 @@ export default {
           jobPosition: "Team leader of front-end team",
           companyName: "Nasr Moein Parsayan",
           EmploymentType: "Full time",
-          endDate: "Jul 2023",
+          endDate: "Aug 2023",
           startDate: "Apr 2022",
           locationType: "Remote",
           location: "Tehran, Tehran Province, Iran",
@@ -82,6 +82,7 @@ export default {
           locationType: "Remote",
           location: "Tehran, Tehran Province, Iran",
           achievements: [
+            "Designed front-end code using Vue js and Nuxt js to develope responsive web sites that works accross desktop, tablets and other devices .",
             "Fixed bugs and performed code reviews, utilizing the <<module pattern>> architecture within the first month .",
             "Created modular, responsive templates using modern CSS techniques and JavaScript libraries.",
             "Collaborated with designers to ensure designs were efficient and technically sound designs.",
@@ -97,7 +98,7 @@ export default {
           locationType: "On site",
           location: "Gilan Province, Iran",
           achievements: [
-            "Designed front-end code using Vue js and Nuxt js to develope responsive web sites that works accross desktop, tablets and other devices .",
+            "Designed front-end code using Vue js and Nuxt js to develope responsive web sites.",
             "Utilized D3js to create tree for manage menu in admin panel.",
             "Validated 100% of user input before submitting to the back-end .",
           ],

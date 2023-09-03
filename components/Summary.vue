@@ -8,7 +8,8 @@
         <p class="mb-0 pb-0">
           Senior Front-End developer with 4 years of professional experience in
           the field of front-end development and website design .They specialize
-          in using React js, Vue js, Next js, Nuxt js for their projects.
+          in using React js, Vue js, Next js, Nuxt js for their projects also
+          have learned Flutter framework for improving skills.
         </p>
         <p class="mb-0 pb-0">
           Capable of continuous learning from senior developers while still

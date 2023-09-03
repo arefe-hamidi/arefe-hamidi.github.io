@@ -46,9 +46,9 @@ export default {
             { title: "HTML", level: "Proficient" },
             { title: "CSS", level: "Proficient" },
             { title: "Java", level: "Upper Intermediate" },
+            { title: "Python", level: "Intermediate" },
             { title: "Dart", level: "Intermediate" },
             { title: "C++", level: "Intermediate" },
-            { title: "Python", level: "Intermediate" },
           ],
         },
         {
@@ -62,9 +62,9 @@ export default {
         {
           Title: "Frameworks",
           value: [
+            { title: "Vue js", level: "Proficient" },
             { title: "Next js", level: "Intermediate" },
             { title: "React native ", level: "Intermediate" },
-            { title: "Vue js", level: "Proficient" },
             { title: "Nuxt js", level: "Proficient" },
             { title: "Vuetify", level: "Proficient" },
             { title: "Bootstrap", level: "Proficient" },
