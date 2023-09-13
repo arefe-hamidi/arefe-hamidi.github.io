@@ -76,6 +76,8 @@ export default {
           value: [
             { title: "SEO", level: "Upper Intermediate" },
             { title: "Git ", level: "Upper Intermediate" },
+            { title: "Sass ", level: "Proficient" },
+            { title: "Material Design ", level: "Upper Intermediate" },
             { title: "MySQL", level: "Intermediate" },
             { title: "Adobe illustrator", level: "Intermediate" },
           ],

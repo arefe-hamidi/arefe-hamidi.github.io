@@ -68,7 +68,7 @@ export default {
           achievements: [
             "Mentored a team of 4  members, helping team achieve professional growth and personal goals .",
             "Worked on projects involving <<payment gateway>> such as payment, wallet charge, subscription and membership plan .",
-            "Optimazed 15+ key content pages for <<SEO>> objectives ,resulting in an 78% improvement in online search ranking accuracy .",
+            "Optimazed 15+ key content pages for <<SEO>> objectives ,resulting in an 78% improvement in online search ranking accuracy . (used to <<SSR>> and <<CSR>> , <<SPA>> ,<<site map>> , <<metaTags>> , ...)",
             "Conducted code rivews to improve product quality.",
             "Provided consulting services to professionals during the development of new websites to ensure accessibility.",
           ],
@@ -87,6 +87,7 @@ export default {
             "Created modular, responsive templates using modern CSS techniques and JavaScript libraries.",
             "Collaborated with designers to ensure designs were efficient and technically sound designs.",
             "Optimized 18+ applications for maximum speed and scalability .",
+            "Used to <<Leaflet>> , <<Ckeditor>> , <<Vuex>> ,<<SASS>> ,... in this project.",
           ],
         },
         {
@@ -99,7 +100,7 @@ export default {
           location: "Gilan Province, Iran",
           achievements: [
             "Designed front-end code using Vue js and Nuxt js to develope responsive web sites.",
-            "Utilized D3js to create tree for manage menu in admin panel.",
+            "Utilized <<D3js>> to create tree for manage menu in admin panel.",
             "Validated 100% of user input before submitting to the back-end .",
           ],
         },
