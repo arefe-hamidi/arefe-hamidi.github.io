@@ -7,18 +7,16 @@
       <b-card-text>
         <p class="mb-0 pb-0">
           Senior Front-End developer with 4 years of professional experience in
-          the field of front-end development and website design .They specialize
-          in using React js, Vue js, Next js, Nuxt js for their projects also
-          have learned Flutter framework for improving skills.
+          front-end development and website design. Specializes in using
+          React.js, Vue.js, Next.js, and Nuxt.js for projects. Also proficient
+          in Flutter framework.
         </p>
         <p class="mb-0 pb-0">
-          Capable of continuous learning from senior developers while still
-          nurturing junior developers.Experienced in driving projects forward as
-          the development team leader, facilitating projects from concept to
-          launch. Passionate about learning and development with a desire to
-          apply skills on a larger development team . Eager to tackle more
-          complex problems and continue to find ways to maximize user
-          efficiency.
+          Capable of continuous learning from senior developers while mentoring
+          junior developers. Experienced in leading development teams and
+          driving projects from concept to launch. Passionate about learning and
+          development, with a desire to contribute to a larger development team.
+          Excels in solving complex problems and maximizing user efficiency.
         </p>
       </b-card-text>
     </b-card>

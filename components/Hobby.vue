@@ -23,9 +23,9 @@ export default {
     return {
       hobbies: [
         "Admirer of nature and beauty",
-        " Interested in art (specialy traditional art ) and reading book",
-        "Painting is main hobby",
-        " Interested in traveling and learning about culture and testing new foods",
+        "Interested in art, especially traditional art, and reading books",
+        "Painting is my main hobby",
+        "Interested in traveling, learning about different cultures, and trying new foods",
       ],
     };
   },

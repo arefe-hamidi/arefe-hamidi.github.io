@@ -43,12 +43,11 @@ export default {
           Title: "Programming languages",
           value: [
             { title: "JavaScript", level: "Proficient" },
-            { title: "HTML", level: "Proficient" },
-            { title: "CSS", level: "Proficient" },
             { title: "Java", level: "Upper Intermediate" },
-            { title: "Python", level: "Intermediate" },
-            { title: "Dart", level: "Intermediate" },
             { title: "C++", level: "Intermediate" },
+            { title: "CSS", level: "Proficient" },
+            { title: "Dart", level: "Intermediate" },
+            // { title: "Python", level: "Intermediate" },
           ],
         },
         {
@@ -64,10 +63,10 @@ export default {
           value: [
             { title: "Vue js", level: "Proficient" },
             { title: "Next js", level: "Intermediate" },
-            { title: "React native ", level: "Intermediate" },
+            // { title: "React native ", level: "Intermediate" },
             { title: "Nuxt js", level: "Proficient" },
             { title: "Vuetify", level: "Proficient" },
-            { title: "Bootstrap", level: "Proficient" },
+
             { title: "Flutter", level: "Intermediate" },
           ],
         },
@@ -75,11 +74,13 @@ export default {
           Title: "Other skills",
           value: [
             { title: "SEO", level: "Upper Intermediate" },
-            { title: "Git ", level: "Upper Intermediate" },
-            { title: "Sass ", level: "Proficient" },
             { title: "Material Design ", level: "Upper Intermediate" },
-            { title: "MySQL", level: "Intermediate" },
+            { title: "HTML", level: "Proficient" },
+            { title: "Bootstrap", level: "Proficient" },
+            { title: "Sass ", level: "Proficient" },
             { title: "Adobe illustrator", level: "Intermediate" },
+            { title: "Git ", level: "Upper Intermediate" },
+            { title: "MySQL", level: "Intermediate" },
           ],
         },
         {

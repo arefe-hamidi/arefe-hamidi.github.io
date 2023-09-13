@@ -4,8 +4,8 @@
       <PersonalInfo class="my-2" />
       <Summary class="my-2" />
       <Experiance class="my-2" />
-      <Educations class="my-2" />
       <Skills class="my-2" />
+      <Educations class="my-2" />
       <Hobby class="my-2" />
       <Projects class="my-2" />
     </b-container>
