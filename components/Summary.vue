@@ -8,8 +8,7 @@
         <p class="mb-0 pb-0">
           Senior Front-End developer with 4 years of professional experience in
           front-end development and website design. Specializes in using
-          React.js, Vue.js, Next.js, and Nuxt.js for projects. Also proficient
-          in Flutter framework.
+          React.js, Vue.js, Next.js, and Nuxt.js for projects.
         </p>
         <p class="mb-0 pb-0">
           Capable of continuous learning from senior developers while mentoring

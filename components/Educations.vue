@@ -43,15 +43,8 @@ export default {
           FieldOfStudy: "Bachelor of Computer engineering",
           School: "Guilan university",
           Location: "Rasht, Gilan, Iran",
-          endDate: "2020",
-          startDate: "2015",
-        },
-        {
-          FieldOfStudy: "Diploma in mathematics ",
-          School: "Mostaghim high school",
-          Location: "Rasht, Gilan, Iran",
-          startDate: "2012 ",
-          endDate: "2015",
+          endDate: "Feb 2020",
+          startDate: "Sep 2015",
         },
       ],
     };
