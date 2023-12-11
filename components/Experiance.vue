@@ -20,11 +20,12 @@
               </span>
             </div>
           </div>
-          <span class="title">
-            {{ work.companyName }}
-          </span>
           <div class="info-detail">
             <span>
+              {{ work.companyName }} - {{ work.EmploymentType }} (
+              {{ work.locationType }})</span
+            >
+            <!-- <span>
               <img
                 src="~/assets/icon/location-dot-solid.svg"
                 class="icon"
@@ -32,7 +33,7 @@
               />
               {{ work.location }} - {{ work.EmploymentType }} -
               {{ work.locationType }}</span
-            >
+            > -->
           </div>
           <div
             class="achievement mt-1"
@@ -58,10 +59,23 @@ export default {
     return {
       works: [
         {
+          jobPosition: "Front-end developer",
+          companyName: "Rayka",
+          EmploymentType: "Full time",
+          startDate: "Aug 2023",
+          endDate: "Now",
+          locationType: "Remote",
+          location: "Rasht, Guilan Province, Iran",
+          achievements: [
+            "Designed   front-end   code   using   React.js   with TypeScript   to   develop   responsive   website that work across desktop, tablets, and other devices.",
+            "Created   modular   templates   using   modern CSS techniques and JavaScript libraries.",
+          ],
+        },
+        {
           jobPosition: "Team leader of front-end team",
           companyName: "Nasr Moein Parsayan",
           EmploymentType: "Full time",
-          endDate: "Aug 2023",
+          endDate: "Jul 2023",
           startDate: "Apr 2022",
           locationType: "Remote",
           location: "Tehran, Tehran Province, Iran",

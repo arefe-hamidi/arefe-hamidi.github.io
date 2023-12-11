@@ -30,9 +30,19 @@ export default {
     return {
       projects: [
         {
+          title: "Clock App",
+          link: "http://45.92.94.113:4173/login",
+          description: "One platform for managing your time, team & business",
+        },
+        {
+          title: "Bema",
+          link: "https://sepehrparsayan.ir/",
+          description: "Seafood market online platform",
+        },
+        {
           title: "Taksan",
           link: "https://taksaanpre.ir/",
-          description: " Iran's industrial market online platform",
+          description: "Industrial market online platform",
         },
         {
           title: "Taksan's academy site",

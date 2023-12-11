@@ -12,7 +12,7 @@
           <b-row>
             <b-col
               cols="12"
-              md="4"
+              md="6"
               v-for="(skill, skillIndex) in skills.value"
               :key="skillIndex"
             >
@@ -43,11 +43,8 @@ export default {
           Title: "Programming languages",
           value: [
             { title: "JavaScript", level: "Proficient" },
-            { title: "Java", level: "Upper Intermediate" },
-            { title: "C++", level: "Intermediate" },
+            { title: "TypeScript", level: "Intermediate" },
             { title: "CSS", level: "Proficient" },
-            { title: "Dart", level: "Intermediate" },
-            // { title: "Python", level: "Intermediate" },
           ],
         },
         {
@@ -63,21 +60,19 @@ export default {
           value: [
             { title: "Vue js", level: "Proficient" },
             { title: "Next js", level: "Intermediate" },
-            // { title: "React native ", level: "Intermediate" },
             { title: "Nuxt js", level: "Proficient" },
             { title: "Vuetify", level: "Proficient" },
-
-            { title: "Flutter", level: "Intermediate" },
+            { title: "Remix", level: "Intermediate" },
           ],
         },
         {
           Title: "Other skills",
           value: [
             { title: "SEO", level: "Upper Intermediate" },
-            { title: "Material Design ", level: "Upper Intermediate" },
             { title: "HTML", level: "Proficient" },
             { title: "Bootstrap", level: "Proficient" },
             { title: "Sass ", level: "Proficient" },
+            { title: "Material Design ", level: "Upper Intermediate" },
             { title: "Adobe illustrator", level: "Intermediate" },
             { title: "Git ", level: "Upper Intermediate" },
             { title: "MySQL", level: "Intermediate" },
