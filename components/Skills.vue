@@ -15,6 +15,7 @@
               md="6"
               v-for="(skill, skillIndex) in skills.value"
               :key="skillIndex"
+              class="px-1"
             >
               <div class="d-flex flex-row">
                 <div>
@@ -44,7 +45,6 @@ export default {
           value: [
             { title: "JavaScript", level: "Proficient" },
             { title: "TypeScript", level: "Intermediate" },
-            { title: "CSS", level: "Proficient" },
           ],
         },
         {
@@ -70,12 +70,15 @@ export default {
           value: [
             { title: "SEO", level: "Upper Intermediate" },
             { title: "HTML", level: "Proficient" },
-            { title: "Bootstrap", level: "Proficient" },
+            { title: "CSS", level: "Proficient" },
             { title: "Sass ", level: "Proficient" },
+            { title: "Bootstrap", level: "Proficient" },
+            { title: "Tailwind", level: "Proficient" },
             { title: "Material Design ", level: "Upper Intermediate" },
             { title: "Adobe illustrator", level: "Intermediate" },
             { title: "Git ", level: "Upper Intermediate" },
             { title: "MySQL", level: "Intermediate" },
+            { title: "storybook", level: "Intermediate" },
           ],
         },
         {

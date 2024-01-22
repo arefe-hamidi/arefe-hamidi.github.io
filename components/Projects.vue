@@ -30,6 +30,11 @@ export default {
     return {
       projects: [
         {
+          title: "Rayka Txp",
+          link: "http://194.225.78.198/authentication/sign-in",
+          description: "One platform for calc merchants txp",
+        },
+        {
           title: "Clock App",
           link: "http://45.92.94.113:4173/login",
           description: "One platform for managing your time, team & business",

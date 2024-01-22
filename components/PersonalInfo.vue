@@ -34,7 +34,7 @@
         </div>
         <div>
           <img src="~/assets/icon/location-dot-solid.svg" class="icon" alt="" />
-          <span class="info-detail"> Tehran, Iran</span>
+          <span class="info-detail"> Rasht, Iran</span>
         </div>
         <div>
           <img src="~/assets/icon/linkedin.svg" class="icon" alt="" />
