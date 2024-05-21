@@ -30,6 +30,21 @@ export default {
     return {
       projects: [
         {
+          title: "Ako Rayan website",
+          link: "https://akorayan.netlify.app/",
+          description: "Transform What's on your mind into What's in your hand",
+        },
+        {
+          title: "Charm db panel",
+          link: "https://charmdb.wingstech.org/",
+          description: "Flexible outputs,Seamless collaboration",
+        },
+        {
+          title: "Code in One panel",
+          link: "https://code.wingstech.org/",
+          description: "Do more with less with code in one",
+        },
+        {
           title: "Rayka Txp",
           link: "http://194.225.78.198/authentication/sign-in",
           description: "One platform for calc merchants txp",
@@ -37,12 +52,7 @@ export default {
         {
           title: "Clock App",
           link: "http://45.92.94.113:4173/login",
-          description: "One platform for managing your time, team & business",
-        },
-        {
-          title: "Bema",
-          link: "https://sepehrparsayan.ir/",
-          description: "Seafood market online platform",
+          description: "Managing your time, team & business",
         },
         {
           title: "Taksan",
@@ -60,19 +70,9 @@ export default {
           description: "",
         },
         {
-          title: "Taksan's super admin panel",
-          link: "https://superadmin.taksaanpre.ir/",
-          description: "",
-        },
-        {
           title: "Taksan's supplier panel",
           link: "https://supplier.taksaanpre.ir/",
           description: "",
-        },
-        {
-          title: "Memareno",
-          link: "https://memareno.com/",
-          description: "Home design and decoration guide",
         },
       ],
     };
