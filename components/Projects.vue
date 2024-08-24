@@ -2,7 +2,7 @@
   <div>
     <b-card>
       <b-card-title outlined>
-        <h4 class="title">Projects</h4>
+        <h5 class="title">Projects</h5>
       </b-card-title>
       <b-card-text>
         <div v-for="(proj, index) in projects" :key="index">

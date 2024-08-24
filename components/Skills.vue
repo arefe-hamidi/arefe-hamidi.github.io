@@ -2,7 +2,7 @@
   <div>
     <b-card>
       <b-card-title outlined>
-        <h4 class="title">Skills</h4>
+        <h5 class="title">Skills</h5>
       </b-card-title>
       <b-card-text>
         <div v-for="(skills, index) in skillsGroup" :key="index" class="mt-3">
@@ -53,12 +53,14 @@ export default {
             { title: "React", level: "Upper Intermediate" },
             { title: "Redux", level: "Upper Intermediate" },
             { title: "Vuex", level: "Proficient" },
+            { title: "Pinia", level: "Proficient" },
+            { title: "Leaflet", level: "Proficient" },
           ],
         },
         {
           Title: "Frameworks",
           value: [
-            { title: "Vue js", level: "Proficient" },
+            { title: "Vue js (2 & 3)", level: "Proficient" },
             { title: "Next js", level: "Intermediate" },
             { title: "Nuxt js", level: "Proficient" },
             { title: "Vuetify", level: "Proficient" },

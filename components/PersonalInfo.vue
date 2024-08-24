@@ -1,5 +1,5 @@
 <template>
-  <div class="personal-info my-3">
+  <div class="personal-info my-2">
     <div class="d-flex flex-row">
       <div class="d-flex flex-row">
         <div>
@@ -7,12 +7,11 @@
         </div>
         <div class="mx-3">
           <div>
-            <h1 class="importent-title">Front-End Developer</h1>
+            <h2 class="importent-title">Front-End Developer</h2>
           </div>
           <div>
-            <h3 class="title">Arefeh Hamidi</h3>
+            <h4 class="title">Arefeh Hamidi</h4>
           </div>
-          <hr />
           <div>
             <label for="" class="info-label">DoB:</label>
             <span class="info-detail"> 1997-02-26</span>
@@ -71,8 +70,8 @@ export default {
 
 <style lang="css" scoped>
 .profile-image {
-  height: 200px;
-  width: 200px;
+  height: 150px;
+  width: 150px;
   border-radius: 50%;
   border: 4px solid #bed3d6;
 }

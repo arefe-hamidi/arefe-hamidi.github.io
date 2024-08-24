@@ -2,7 +2,7 @@
   <div>
     <b-card>
       <b-card-title outlined>
-        <h4 class="title">Education</h4>
+        <h5 class="title">Education</h5>
       </b-card-title>
       <b-card-text>
         <div v-for="(education, index) in Educations" :key="index" class="mt-2">

@@ -2,11 +2,11 @@
   <div>
     <b-card>
       <b-card-title outlined>
-        <h4 class="title">Profile Summary</h4>
+        <h5 class="title">Profile Summary</h5>
       </b-card-title>
       <b-card-text>
         <p class="mb-0 pb-0">
-          Senior Front-End developer with 4 years of professional experience in
+          Senior Front-End developer with 5 years of professional experience in
           front-end development and website design. Specializes in using
           React.js, Vue.js, Next.js, and Nuxt.js for projects.
         </p>

@@ -2,7 +2,7 @@
   <div>
     <b-card>
       <b-card-title outlined>
-        <h4 class="title">Work Experience</h4>
+        <h5 class="title">Work Experience</h5>
       </b-card-title>
       <b-card-text>
         <div v-for="(work, index) in works" :key="index" class="mt-2">
@@ -59,16 +59,45 @@ export default {
     return {
       works: [
         {
+          jobPosition: "Senior front-end developer",
+          companyName: "Ako Rayan",
+          EmploymentType: "Full time",
+          startDate: "March 2024",
+          endDate: "Now",
+          locationType: "Remote",
+          location: "Tehran, Tehran Province, Iran",
+          achievements: [
+            "Designed   front-end   code   using   React.js   with TypeScript   to   develop   responsive   website that work across desktop, tablets, and other devices.",
+            "Provided consulting services to professionals during the development of new websites to ensure accessibility.",
+            "Collaborated with designers to ensure efficient and technically sound designs",
+            "Utilized <<React flow>> to create a data base structure .",
+          ],
+        },
+        {
+          jobPosition: "Front-end developer",
+          companyName: "Start up - Sharif university",
+          EmploymentType: "Part time",
+          startDate: "March 2024",
+          endDate: "July 2024",
+          locationType: "Remote",
+          location: "Tehran, Tehran Province, Iran",
+          achievements: [
+            "Designed front-end code using Vue.js 3 develop responsive websites.",
+            "Utilized <<Leaflet>>, <<Vuexy>>, <<Pinia>> and other tools in the projects.",
+          ],
+        },
+        {
           jobPosition: "Front-end developer",
           companyName: "Rayka",
           EmploymentType: "Full time",
-          startDate: "Aug 2023",
-          endDate: "Now",
+          startDate: "Jul 2023",
+          endDate: "March 2024",
           locationType: "Remote",
           location: "Rasht, Guilan Province, Iran",
           achievements: [
-            "Designed   front-end   code   using   React.js   with TypeScript   to   develop   responsive   website that work across desktop, tablets, and other devices.",
-            "Created   modular   templates   using   modern CSS techniques and JavaScript libraries.",
+            "Designed   front-end   code   using   React.js   with TypeScript.",
+            " Fixed bugs and performed code reviews, utilizing the module pattern architecture within the first month.",
+            "Conducted code reviews to improve product quality.",
           ],
         },
         {
@@ -83,8 +112,6 @@ export default {
             "Mentored a team of 4 members, facilitating their professional growth and helping them achieve personal goals .",
             "Worked on projects involving <<payment gateway>> integration, including payment processing, wallet charging, subscription, and membership plans.",
             "Optimized 15+ key content pages for <<SEO>> objectives, resulting in a 78% improvement in online search ranking accuracy (utilized <<SSR>>, <<CSR>>, <<SPA>>, <<sitemap>>, <<meta tags>>, etc.).",
-            "Conducted code reviews to improve product quality.",
-            "Provided consulting services to professionals during the development of new websites to ensure accessibility.",
           ],
         },
         {
@@ -96,10 +123,7 @@ export default {
           locationType: "Remote",
           location: "Tehran, Tehran Province, Iran",
           achievements: [
-            "Designed front-end code using Vue.js and Nuxt.js to develop responsive websites that work across desktop, tablets, and other devices.",
-            "Fixed bugs and performed code reviews, utilizing the module pattern architecture within the first month.",
             "Created modular, responsive templates using modern CSS techniques and JavaScript libraries.",
-            "Collaborated with designers to ensure efficient and technically sound designs",
             "Optimized 18+ applications for maximum speed and scalability.",
             "Utilized <<Leaflet>>, <<CKEditor>>, <<Vuex>>, <<Sass>>, and other tools in the projects.",
           ],
