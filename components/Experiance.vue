@@ -80,7 +80,7 @@ export default {
           companyName: "Start up - Sharif university",
           EmploymentType: "Part time",
           startDate: "SEP 2023",
-          endDate: "July 2024",
+          endDate: "Jul 2023",
           locationType: "Remote",
           location: "Tehran, Tehran Province, Iran",
           achievements: [
